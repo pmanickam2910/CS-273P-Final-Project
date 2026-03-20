@@ -370,9 +370,9 @@ pip install -r requirements.txt
 
 | Name | Email |
 |------|-------|
-|      |       |
-|      |       |
-|      |       |
+| Praavin Kumar     | pmanicka@uci.edu       |
+| Mishika Ahuja     | ahujamp@uci.edu      |
+| Venkat Swaroop    | vveerla@uci.edu      |
 
 **Course:** CS273P — Machine Learning in Healthcare  
 **Institution:** UC Irvine  
