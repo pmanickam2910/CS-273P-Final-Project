@@ -346,10 +346,11 @@ kagglehub
 
 ## 👥 Team
 
-| Name | GitHub |
+| Name |
 |---|---|
-| Mishika Ahuja | [@Mish926](https://github.com/Mish926) |
-| Pranav Manickam | [@pmanickam2910](https://github.com/pmanickam2910) |
+| Mishika Ahuja | 
+| Praavin Kumar |
+| Venkat Swaroop |
 
 **Course:** CS273P — Machine Learning in Healthcare  
 **Institution:** UC Irvine  
